@@ -1,0 +1,38 @@
+Numele procesului: Primul
+-------------------------
+Numele procesului: Primul
+NUMBER INPUT Step
+Description: numar
+Number Input: 4
+
+NUMBER INPUT Step
+Description: Descriere
+Number Input: 0
+
+NUMBER INPUT Step
+Description: Descriere
+Number Input: 0
+
+CALCULUS Step
+Result: 0
+
+TEXT FILE INPUT Step
+File: lectie.txt
+Description: file
+
+CSV FILE INPUT Step
+File name: lectie.csv
+Description: file
+
+DISPLAY Step
+file name: lectie.csv
+Content: test
+
+OUTPUT Step
+Title: test
+Text: buna
+
+-------------------------
+Nume proces: Primul
+numar - 4.000000 | Descriere - 0.000000 | Descriere - 0.000000 | 2 steps - + | file - lectie.txt | file - lectie.csv | test - lectie.csv | 1 - output.txt - test - buna | 
+
