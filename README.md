@@ -1,2 +1,2 @@
 # OOP
-Create a process builder that can help users make their own flows.
+I developed an app using C++ programming language that allows users to create custom flows for processes they use in their work. As companies go through the digitalization process, they need to move their process to apps that can help them automate and optimize their work. In this project, I used OOP concepts, such as classes and objects,  inheritance, exceptions, pure virtual classes, polymorphism, design patterns, templates,constructors and destructors and encapsulation.
